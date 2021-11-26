@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: 
+# Name: Valerii Hrihorenko KM-11
 # Collaborators:
 # Time spent:
 
